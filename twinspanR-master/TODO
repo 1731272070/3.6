@@ -1,0 +1,9 @@
+TODO list
+
+Needs to fix:
+
+- rewrite the "modified TWINSPAN" cycle in twinspan function - simplify it
+
+Long term goals:
+- add plotting function to draw hierarchical trees (based on the binary codes returned by TWINSPAN and modified TWINSPAN) - but it's not that easy, could be put for later development
+- summary (or other) function could list indicator species for each split (it means to find these species in *.TWI output and format them for output)
